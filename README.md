@@ -3,7 +3,4 @@
   <h2>
     Hi there 👋
   </h2>
-  <div id="board">
-    [![@dilkhush00's Holopin board](https://holopin.me/dilkhush00)](https://holopin.io/@dilkhush00)
-  </div>
 </div>
